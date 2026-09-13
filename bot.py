@@ -4,7 +4,7 @@ from datetime import datetime
 from flask import Flask
 
 BOT_TOKEN = "8968681957:AAH0gvJ2CaQxgYO5vXjMRLc6mEP_MuTAomU"
-CHAT_ID = "SIZNING_CHAT_ID_INGIZ"
+CHAT_ID = " 7075975650"
 SALOM_XABARI = "Xayrli tong! 🌞 Bugun ajoyib kun bo'lsin!"
 
 bot = telebot.TeleBot(BOT_TOKEN)
